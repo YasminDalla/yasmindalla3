@@ -4,10 +4,10 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 1.2em;
 }
-.subtitle{
+
+.subtitle {
     color: #fff;
 }
-
 
 .text-title {
     font-family: 'Akronim', 'cursive';
@@ -17,8 +17,10 @@ body {
 
 .bg-title {
     /*background-image: linear-gradient(to bottom right, #192a56, #40739e);*/
-
-    background: url('img/yasmin.png') center center no-repeat ;
+    background: url('img/yasmin.png') center center no-repeat;
     background-size: cover;
+}
 
+.rodap {
+    background-color: rgb(52, 93, 153);
 }
