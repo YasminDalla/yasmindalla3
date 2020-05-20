@@ -17,8 +17,14 @@ body {
 
 .bg-title {
     /*background-image: linear-gradient(to bottom right, #ffb8b8, #63CCDA);*/
-    background: url('img/yasmin.png') center center no-repeat;
+    background: url('img/doces.jpg') center center no-repeat;
     background-size: cover;
+}
+
+.mt-n6 {
+    margin-top: -4rem;
+    font-size: 2rem;
+    margin-right: 3rem;
 }
 
 .rodap {
@@ -26,5 +32,11 @@ body {
 }
 
 .bg-nav {
-    background-color white;
+    background-color: white;
+    margin-top: -1rem;
+}
+
+.text-span {
+    z-index: 99;
+    position: absolute;
 }
